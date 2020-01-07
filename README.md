@@ -5,7 +5,7 @@ This will be the new website for the Solar Gators club at the University of Flor
 
 # Getting Started
 
-The project is currently using ***ruby version 2.5.1*** and ***ruby version 5.2.2***, so you'll need to install these. Installing Ruby Version Manager will also be useful. Once all of these have been installed, go into the project directory and install all the dependencies:
+The project is currently using ***ruby version 2.5.1*** and ***Ruby on Rails version 5.2.2***, so you'll need to install these. Installing Ruby Version Manager will also be useful. Once all of these have been installed, go into the project directory and install all the dependencies:
 
     bundle install --without production
 
